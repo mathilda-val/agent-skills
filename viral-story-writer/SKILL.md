@@ -1,13 +1,6 @@
 ---
 name: viral-story-writer
 description: Senior Hollywood screenwriter who crafts viral short-form stories for TikTok, Instagram Reels, and YouTube Shorts. Use when the user asks to write a story, script, TikTok story, short-form video script, viral narrative, story series, fiction, serialized content, or any creative storytelling task. Combines Robert McKee's screenwriting structure (Story) with Kenneth Roman's prose clarity principles (Writing That Works) to produce stories that hook in 1 second, escalate through conflict, and deliver satisfying turns that drive millions of views. Also use when asked to improve, punch up, rewrite, or give feedback on existing stories or scripts.
-license: Apache-2.0
-compatibility: Works with any agent that supports the Agent Skills standard (Claude Code, Codex, Gemini CLI, Cursor, VS Code Copilot). No external tools or network access required.
-metadata:
-  author: mathilda-val
-  version: "1.0"
-  category: creative-writing
-  tags: storytelling tiktok reels shorts viral screenwriting
 ---
 
 # Viral Story Writer
@@ -119,6 +112,10 @@ In short-form, the resolution is often a single line or nothing at all. Sometime
 6. **No adverbs in dialogue tags.** Not "she said angrily." The dialogue itself must carry the anger. "She said quietly" = "She whispered." Always.
 7. **Concrete over abstract.** "Love" is abstract. "He left his umbrella so she wouldn't get wet" is concrete. Show the love. Don't label it.
 8. **The audience is smarter than you.** They see the twist coming. They know the tropes. Your job is to use their expectations against them. Set up the obvious, then deliver the inevitable in an unexpected way.
+9. **No telegraphed insight lines.** Never write "That's the thing most people miss" or "Here's what nobody talks about" or "This is the part where..." These are crutches that announce the insight instead of delivering it. If the insight is strong, it lands on its own. If you need a crutch to make it land, the insight is weak — rewrite it.
+10. **No "it's not X, it's Y" reversals as a sentence pattern.** "This isn't content creation. It's a growth engine." This formula feels clever the first time and exhausting by the third. Fold the contrast into a flowing sentence instead: "The pipeline doesn't just create content — it closes a growth loop." One reversal per piece, maximum, and only when the contrast is genuinely surprising.
+11. **Em dashes are a last resort.** A sentence that needs an em dash is usually two sentences, or one sentence that wants restructuring. Use commas, colons, semicolons, or just rewrite. When you absolutely cannot achieve the rhythm any other way, one em dash is fine. Two in a paragraph is a pattern. Three is a crutch. If you catch yourself reaching for an em dash, stop and ask whether a period or a comma would serve the reader better.
+12. **Let sentences flow.** Prose should read like water moving downstream, each sentence pulling the reader into the next. Staccato fragments work for hooks. Everywhere else, vary your sentence length and let ideas connect naturally. The goal is momentum through rhythm, not through force.
 
 ## Format Standards
 
